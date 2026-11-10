@@ -1,0 +1,423 @@
+﻿doenca,sistema,n_lncRNAs
+Squamous Cell Carcinoma of Head and Neck,Cabeca_Pescoco,221
+Nasopharyngeal carcinoma,Cabeca_Pescoco,97
+tongue squamous cell carcinoma,Cabeca_Pescoco,29
+Laryngeal Neoplasms,Cabeca_Pescoco,16
+Mouth Neoplasms,Cabeca_Pescoco,13
+laryngeal carcinoma,Cabeca_Pescoco,10
+Periodontitis,Cabeca_Pescoco,5
+laryngeal squamous cell carcinoma,Cabeca_Pescoco,5
+Nasopharyngeal Neoplasms,Cabeca_Pescoco,4
+Sinonasal Squamous Cell Carcinoma,Cabeca_Pescoco,3
+Ameloblastoma,Cabeca_Pescoco,2
+Chronic Periodontitis,Cabeca_Pescoco,2
+Head and Neck Neoplasms,Cabeca_Pescoco,2
+Oral Submucous Fibrosis,Cabeca_Pescoco,2
+"Stomatitis, Aphthous",Cabeca_Pescoco,2
+Tongue Neoplasms,Cabeca_Pescoco,2
+oral cavity cancer,Cabeca_Pescoco,2
+"Leukoplakia, Oral",Cabeca_Pescoco,1
+Pulpitis,Cabeca_Pescoco,1
+Sinonasal Inverted Papilloma,Cabeca_Pescoco,1
+head and neck carcinoma,Cabeca_Pescoco,1
+head and neck squamous cell carcinoma,Cabeca_Pescoco,1
+maxillary sinus squamous cell carcinoma,Cabeca_Pescoco,1
+oral squamous cell carcinoma,Cabeca_Pescoco,1
+Atrial Fibrillation,Cardiovascular,578
+Coronary Artery Disease,Cardiovascular,54
+Atherosclerosis,Cardiovascular,49
+Coronary Disease,Cardiovascular,20
+"Cardiomyopathy, Dilated",Cardiovascular,15
+Myocardial Infarction,Cardiovascular,13
+Myocardial Reperfusion Injury,Cardiovascular,9
+Heart Failure,Cardiovascular,8
+"Aortic Aneurysm, Thoracic",Cardiovascular,7
+acute myocardial infarction,Cardiovascular,7
+"Aortic Aneurysm, Abdominal",Cardiovascular,6
+Cardiovascular Diseases,Cardiovascular,6
+Heart Injuries,Cardiovascular,6
+"Dissection, Thoracic Aorta",Cardiovascular,5
+Hemangioma,Cardiovascular,5
+capillary hemangioma,Cardiovascular,4
+"Heart Defects, Congenital",Cardiovascular,3
+Acute Coronary Syndrome,Cardiovascular,2
+"Aortic Valve, Calcification of",Cardiovascular,2
+Cardiomegaly,Cardiovascular,2
+"Cardiomyopathy, Hypertrophic",Cardiovascular,2
+Myocardial Reperfusion,Cardiovascular,2
+Vascular Diseases,Cardiovascular,2
+Aortic Dissection,Cardiovascular,1
+Cardiac Fibrosis,Cardiovascular,1
+Cardiac Mitophagy,Cardiovascular,1
+Cardiomyopathies,Cardiovascular,1
+Coronary Slow Flow Endothelial Dysfunction,Cardiovascular,1
+Essential Hypertension,Cardiovascular,1
+Heart Neoplasms,Cardiovascular,1
+Intracranial Aneurysm,Cardiovascular,1
+Rheumatic Heart Disease,Cardiovascular,1
+Sepsis-associated Cardiac Dysfunction,Cardiovascular,1
+Tetralogy of Fallot,Cardiovascular,1
+Venous Thrombosis,Cardiovascular,1
+aortic valve disease,Cardiovascular,1
+Melanoma,Dermatologico,67
+Skin Neoplasms,Dermatologico,14
+Psoriasis,Dermatologico,9
+acral lentiginous melanoma,Dermatologico,8
+Mucocutaneous Lymph Node Syndrome,Dermatologico,7
+Uveal melanoma,Dermatologico,6
+Keloid,Dermatologico,5
+skin melanoma,Dermatologico,5
+"Cicatrix, Hypertrophic",Dermatologico,2
+Ichthyosis Vulgaris,Dermatologico,2
+Pemphigus,Dermatologico,2
+Mycosis Fungoides,Dermatologico,1
+Rosacea,Dermatologico,1
+Vitiligo,Dermatologico,1
+Esophageal Squamous Cell Carcinoma,Digestivo,853
+Stomach Neoplasms,Digestivo,496
+"Carcinoma, Hepatocellular",Digestivo,438
+Colorectal Neoplasms,Digestivo,414
+Pancreatic Neoplasms,Digestivo,117
+Colonic Neoplasms,Digestivo,110
+Cholangiocarcinoma,Digestivo,63
+Liver Neoplasms,Digestivo,60
+Esophageal Neoplasms,Digestivo,54
+pancreatic ductal adenocarcinoma,Digestivo,38
+Inflammatory Bowel Diseases,Digestivo,24
+stomach carcinoma,Digestivo,20
+Gallbladder Neoplasms,Digestivo,19
+gastric adenocarcinoma,Digestivo,19
+pancreatic adenocarcinoma,Digestivo,17
+Hepatoblastoma,Digestivo,15
+Pancreatic Carcinoma,Digestivo,11
+Non-alcoholic Fatty Liver Disease,Digestivo,9
+colorectal adenocarcinoma,Digestivo,8
+esophageal carcinoma,Digestivo,8
+gallbladder carcinoma,Digestivo,7
+Crohn Disease,Digestivo,5
+Liver Cirrhosis,Digestivo,5
+Rectal Neoplasms,Digestivo,5
+"Colitis, Ulcerative",Digestivo,4
+Hirschsprung Disease,Digestivo,4
+gastric cardia adenocarcinoma,Digestivo,4
+"Fatty Liver, Alcoholic",Digestivo,3
+Gastrointestinal Neoplasms,Digestivo,3
+Pancreatitis,Digestivo,3
+Adenocarcinoma Of Esophagus,Digestivo,2
+Gastrointestinal Stromal Tumors,Digestivo,2
+Irritable Bowel Syndrome,Digestivo,2
+non-alcoholic steatohepatitis,Digestivo,2
+Acute Liver Injury,Digestivo,1
+"Carcinoma, Pancreatic Ductal",Digestivo,1
+Celiac Disease,Digestivo,1
+Colorectal Cancer Liver Metastasis,Digestivo,1
+Digestive System Neoplasms,Digestivo,1
+Digestive System Tumors,Digestivo,1
+Hepatic Ischemia/Reperfusion Injury,Digestivo,1
+Hepatocellular Carcinoma Related Chronic Virus C Infection,Digestivo,1
+Intestinal Neoplasms,Digestivo,1
+Liver Cancer Bone Metastasis,Digestivo,1
+"Liver Cirrhosis, Biliary",Digestivo,1
+"Liver Diseases, Alcoholic",Digestivo,1
+"Liver Failure, Acute",Digestivo,1
+Liver Inflammation Caused By Chb In Patients With Chronic Hbv Infection Complicated With Nafld,Digestivo,1
+"Pancreatitis, Chronic",Digestivo,1
+Peptic Ulcer,Digestivo,1
+colon carcinoma,Digestivo,1
+esophagus squamous cell carcinoma,Digestivo,1
+microinvasive gastric cancer,Digestivo,1
+"Diabetes Mellitus, Type 1",Endocrino_Metabolico,162
+"Thyroid Cancer, Papillary",Endocrino_Metabolico,97
+Thyroid Neoplasms,Endocrino_Metabolico,69
+Diabetes Mellitus,Endocrino_Metabolico,24
+"Diabetes Mellitus, Type 2",Endocrino_Metabolico,24
+Diabetic Macroangiopathy,Endocrino_Metabolico,20
+Diabetic Nephropathies,Endocrino_Metabolico,16
+Pituitary Neoplasms,Endocrino_Metabolico,14
+Adrenocortical Carcinoma,Endocrino_Metabolico,13
+Diabetic Retinopathy,Endocrino_Metabolico,13
+"Thyroid Carcinoma, Anaplastic",Endocrino_Metabolico,8
+"Diabetes, Gestational",Endocrino_Metabolico,4
+"Thyroid cancer, medullary",Endocrino_Metabolico,4
+Diabetic Foot,Endocrino_Metabolico,3
+Adrenal Cortex Neoplasms,Endocrino_Metabolico,2
+Diabetic Cardiomyopathies,Endocrino_Metabolico,2
+Graves Disease,Endocrino_Metabolico,2
+Growth Hormone-Secreting Pituitary Adenoma,Endocrino_Metabolico,2
+Neuroendocrine Tumors,Endocrino_Metabolico,2
+neuroendocrine carcinoma,Endocrino_Metabolico,2
+Bone-Invasive Pituitary Adenomas,Endocrino_Metabolico,1
+Colorectal Cancer Patients With Type 2 Diabetes,Endocrino_Metabolico,1
+Diabetic Cardiac Fibrosis,Endocrino_Metabolico,1
+Diabetic Ischemic Stroke,Endocrino_Metabolico,1
+Diabetic Lung,Endocrino_Metabolico,1
+Diabetic Lung Disease,Endocrino_Metabolico,1
+"Hyperparathyroidism, Primary",Endocrino_Metabolico,1
+Hypothyroidism,Endocrino_Metabolico,1
+Klinefelter Syndrome,Endocrino_Metabolico,1
+Parathyroid Neoplasms,Endocrino_Metabolico,1
+Prolactinoma,Endocrino_Metabolico,1
+Thyroid Cancer Lung Metastasis,Endocrino_Metabolico,1
+Thyroid Nodule,Endocrino_Metabolico,1
+Type 2 Diabetes With Macrovascular Complication,Endocrino_Metabolico,1
+diabetic cataract,Endocrino_Metabolico,1
+diabetic encephalopathy,Endocrino_Metabolico,1
+diabetic macular edema,Endocrino_Metabolico,1
+Uterine Cervical Neoplasms,Ginecologico_Reprodutivo,236
+Ovarian Neoplasms,Ginecologico_Reprodutivo,165
+Endometrial Neoplasms,Ginecologico_Reprodutivo,90
+"Carcinoma, Ovarian Epithelial",Ginecologico_Reprodutivo,40
+cervical squamous cell carcinoma,Ginecologico_Reprodutivo,22
+Endometriosis,Ginecologico_Reprodutivo,16
+Polycystic Ovary Syndrome,Ginecologico_Reprodutivo,14
+ovarian carcinoma,Ginecologico_Reprodutivo,14
+Pre-Eclampsia,Ginecologico_Reprodutivo,12
+"Abortion, Habitual",Ginecologico_Reprodutivo,8
+"Abortion, Spontaneous",Ginecologico_Reprodutivo,3
+Primary Ovarian Insufficiency,Ginecologico_Reprodutivo,3
+endometrial adenocarcinoma,Ginecologico_Reprodutivo,3
+endometriosis of ovary,Ginecologico_Reprodutivo,3
+Prostatic Hyperplasia,Ginecologico_Reprodutivo,2
+ovarian clear cell carcinoma,Ginecologico_Reprodutivo,2
+"Carcinoma, Endometrioid",Ginecologico_Reprodutivo,1
+Choriocarcinoma,Ginecologico_Reprodutivo,1
+Endometrial Hyperplasias And Carcinomas,Ginecologico_Reprodutivo,1
+"Hypertension, Pregnancy-Induced",Ginecologico_Reprodutivo,1
+Leiomyoma,Ginecologico_Reprodutivo,1
+Premature Ovarian Failure 7,Ginecologico_Reprodutivo,1
+Prostatitis,Ginecologico_Reprodutivo,1
+Recurrent Pregnancy,Ginecologico_Reprodutivo,1
+Spontaneous Preterm Birth,Ginecologico_Reprodutivo,1
+Testicular Germ Cell Tumor,Ginecologico_Reprodutivo,1
+Unexplained Recurrent Spontaneous Abortion,Ginecologico_Reprodutivo,1
+choriocarcinoma,Ginecologico_Reprodutivo,1
+"endometrial endometrioid adenocarcinoma, secretory variant",Ginecologico_Reprodutivo,1
+ovarian serous cystadenocarcinoma,Ginecologico_Reprodutivo,1
+ovarian squamous cell carcinoma,Ginecologico_Reprodutivo,1
+primary ovarian insufficiency,Ginecologico_Reprodutivo,1
+uterine corpus endometrial carcinoma,Ginecologico_Reprodutivo,1
+uterine fibroid,Ginecologico_Reprodutivo,1
+vulva squamous cell carcinoma,Ginecologico_Reprodutivo,1
+"Leukemia, Myeloid, Acute",Hematologico,75
+Multiple Myeloma,Hematologico,59
+"Lymphoma, Large B-Cell, Diffuse",Hematologico,23
+Myelodysplastic Syndromes,Hematologico,15
+Precursor Cell Lymphoblastic Leukemia-Lymphoma,Hematologico,8
+"Lymphoma, Mantle-Cell",Hematologico,7
+Leukemia,Hematologico,6
+"Purpura, Thrombocytopenic, Idiopathic",Hematologico,5
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",Hematologico,4
+T-cell acute lymphoblastic leukemia,Hematologico,4
+acute myeloid leukemia,Hematologico,4
+"Leukemia, Lymphocytic, Chronic, B-Cell",Hematologico,3
+"Leukemia, Promyelocytic, Acute",Hematologico,3
+"Lymphoma, Non-Hodgkin",Hematologico,3
+beta-Thalassemia,Hematologico,3
+Burkitt Lymphoma,Hematologico,2
+Hemophilia A,Hematologico,2
+Hodgkin Disease,Hematologico,2
+childhood leukemia,Hematologico,2
+B-cell acute lymphoblastic leukemia,Hematologico,1
+Hematologic Neoplasms,Hematologico,1
+"Leukemia, B-Cell",Hematologico,1
+"Leukemia, Biphenotypic, Acute",Hematologico,1
+"Leukemia, Lymphoid",Hematologico,1
+"Leukemia, Myeloid",Hematologico,1
+Lymphoma,Hematologico,1
+"Lymphoma, Extranodal NK-T-Cell",Hematologico,1
+"Lymphoma, T-Cell, Cutaneous",Hematologico,1
+"Lymphoma, T-Cell, Peripheral",Hematologico,1
+acute leukemia,Hematologico,1
+acute promyelocytic leukemia,Hematologico,1
+childhood acute lymphocytic leukemia,Hematologico,1
+COVID-19,Infeccioso,50
+Sepsis,Infeccioso,42
+Sars-Cov-2 Vaccination Breakthrough Infections,Infeccioso,12
+Tuberculosis,Infeccioso,5
+Hepatitis B virus,Infeccioso,3
+Bacterial Infections,Infeccioso,1
+Chlamydia,Infeccioso,1
+Escherichia coli Infections,Infeccioso,1
+HIV,Infeccioso,1
+Hepatitis B,Infeccioso,1
+"Hepatitis B, Chronic",Infeccioso,1
+"Meningitis, Cryptococcal",Infeccioso,1
+Mycobacterium tuberculosis,Infeccioso,1
+Neonatal Sepsis,Infeccioso,1
+Sepsis-Induced Cardiomyocyte Pyroptosis,Infeccioso,1
+"Tuberculosis, Spinal",Infeccioso,1
+chikungunya,Infeccioso,1
+influenza,Infeccioso,1
+"Arthritis, Rheumatoid",Inflamatorio_Autoimune,40
+Sjogren's Syndrome,Inflamatorio_Autoimune,30
+"Arthritis, Gouty",Inflamatorio_Autoimune,13
+"Lupus Erythematosus, Systemic",Inflamatorio_Autoimune,9
+Behcet Syndrome,Inflamatorio_Autoimune,4
+"Lupus Erythematosus, Discoid",Inflamatorio_Autoimune,4
+"Scleroderma, Systemic",Inflamatorio_Autoimune,3
+"Arthritis, Psoriatic",Inflamatorio_Autoimune,2
+"Arthritis, Juvenile",Inflamatorio_Autoimune,1
+Dermatomyositis,Inflamatorio_Autoimune,1
+Systemic Lupus Erythematosus-Associated Diffuse Alveolar Hemorrhage,Inflamatorio_Autoimune,1
+Breast Neoplasms,Mama,391
+Triple Negative Breast Neoplasms,Mama,95
+"Carcinoma, Ductal, Breast",Mama,4
+Her2-receptor positive breast cancer,Mama,4
+Osteoarthritis,Musculoesqueletico,249
+Osteosarcoma,Musculoesqueletico,214
+Osteoporosis,Musculoesqueletico,11
+Intervertebral Disc Degeneration,Musculoesqueletico,7
+Chordoma,Musculoesqueletico,5
+"Osteoporosis, Postmenopausal",Musculoesqueletico,5
+"Spondylitis, Ankylosing",Musculoesqueletico,5
+"Sarcoma, Ewing",Musculoesqueletico,4
+Chondrosarcoma,Musculoesqueletico,2
+"Fractures, Bone",Musculoesqueletico,2
+Osteonecrosis,Musculoesqueletico,2
+Bone Neoplasms,Musculoesqueletico,1
+Ewing sarcoma,Musculoesqueletico,1
+Femur Head Necrosis,Musculoesqueletico,1
+Fracture Healing,Musculoesqueletico,1
+Gliosarcoma,Musculoesqueletico,1
+Leiomyosarcoma,Musculoesqueletico,1
+"Osteoarthritis, Knee",Musculoesqueletico,1
+Retroperitoneal liposarcoma,Musculoesqueletico,1
+Rhabdomyosarcoma,Musculoesqueletico,1
+"Sarcoma, Myeloid",Musculoesqueletico,1
+"Sarcoma, Synovial",Musculoesqueletico,1
+ankylosing spondylitis 1,Musculoesqueletico,1
+degenerative disc disease,Musculoesqueletico,1
+spinal chordoma,Musculoesqueletico,1
+Neoplasms,NAO_CLASSIFICADA,19
+"Carcinoma, Adenoid Cystic",NAO_CLASSIFICADA,3
+"Fatigue Syndrome, Chronic",NAO_CLASSIFICADA,3
+"Hearing Loss, Noise-Induced",NAO_CLASSIFICADA,3
+Solid Tumors,NAO_CLASSIFICADA,3
+invasive ductal carcinoma,NAO_CLASSIFICADA,3
+"Adenocarcinoma, Follicular",NAO_CLASSIFICADA,2
+Reperfusion Injury,NAO_CLASSIFICADA,2
+transitional cell carcinoma,NAO_CLASSIFICADA,2
+Adenocarcinoma,NAO_CLASSIFICADA,1
+Arteriosclerosis Obliterans,NAO_CLASSIFICADA,1
+Carcinoma,NAO_CLASSIFICADA,1
+"Carcinoma, Basal Cell",NAO_CLASSIFICADA,1
+"Carcinoma, Basosquamous",NAO_CLASSIFICADA,1
+"Carcinoma, Ductal",NAO_CLASSIFICADA,1
+Cardiomyocyte Hypoxia/Reoxygenation Injury,NAO_CLASSIFICADA,1
+Carotid Artery Diseases,NAO_CLASSIFICADA,1
+Lambert-Eaton myasthenic syndrome,NAO_CLASSIFICADA,1
+Lymphatic Metastasis,NAO_CLASSIFICADA,1
+Malignant Tumour Lympha Node Metastasis,NAO_CLASSIFICADA,1
+Myocarditis,NAO_CLASSIFICADA,1
+Neoplasm Metastasis,NAO_CLASSIFICADA,1
+"Plaque, Atherosclerotic",NAO_CLASSIFICADA,1
+Postoperative Nausea and Vomiting,NAO_CLASSIFICADA,1
+"Shock, Cardiogenic",NAO_CLASSIFICADA,1
+"Stress Disorders, Post-Traumatic",NAO_CLASSIFICADA,1
+Subarachnoid Hemorrhage,NAO_CLASSIFICADA,1
+Teratocarcinoma,NAO_CLASSIFICADA,1
+Thymoma,NAO_CLASSIFICADA,1
+Thymus Neoplasms,NAO_CLASSIFICADA,1
+artery disease,NAO_CLASSIFICADA,1
+larynx squamous papilloma,NAO_CLASSIFICADA,1
+Depression,Neurologico,390
+Glioma,Neurologico,229
+Glioblastoma,Neurologico,86
+Neuroblastoma,Neurologico,37
+Ischemic Stroke,Neurologico,23
+Alzheimer Disease,Neurologico,20
+Multiple Sclerosis,Neurologico,19
+Parkinson Disease,Neurologico,19
+"Brain Injuries, Traumatic",Neurologico,9
+Myasthenia Gravis,Neurologico,9
+Medulloblastoma,Neurologico,6
+Stroke,Neurologico,6
+brain glioma,Neurologico,6
+Bipolar Disorder,Neurologico,5
+"Depressive Disorder, Major",Neurologico,5
+Cerebral Ischaemia/Reperfusion Injury,Neurologico,4
+Cerebral Ischemia/Reperfusion Injury,Neurologico,4
+Meningioma,Neurologico,4
+Spinal Cord Injuries,Neurologico,4
+Cerebral Hemorrhage,Neurologico,3
+Nervous System Neoplasms,Neurologico,3
+Ependymoma,Neurologico,2
+Epilepsy,Neurologico,2
+Schizophrenia,Neurologico,2
+Amyotrophic Lateral Sclerosis,Neurologico,1
+Amyotrophic Lateral Sclerosis 7,Neurologico,1
+Autism Spectrum Disorder,Neurologico,1
+Brain Injuries,Neurologico,1
+Cerebral Infarction,Neurologico,1
+Demyelinating Diseases,Neurologico,1
+Diffuse Intrinsic Pontine Glioma,Neurologico,1
+"Epilepsy, Temporal Lobe",Neurologico,1
+Huntington Disease,Neurologico,1
+"Neuroma, Acoustic",Neurologico,1
+Neuronal Injury,Neurologico,1
+Neurosyphilis,Neurologico,1
+Oligodendroglioma,Neurologico,1
+Sepsis-Induced Myocardial Depression,Neurologico,1
+glioblastoma,Neurologico,1
+Pterygium,Oftalmologico,257
+Retinoblastoma,Oftalmologico,42
+Corneal Neovascularization,Oftalmologico,3
+"Glaucoma, Open-Angle",Oftalmologico,3
+Cataract,Oftalmologico,2
+Glaucoma,Oftalmologico,2
+Capsule Opacification,Oftalmologico,1
+"Vitreoretinopathy, Proliferative",Oftalmologico,1
+Vogt-Koyanagi-Harada disease,Oftalmologico,1
+steroid-induced glaucoma,Oftalmologico,1
+Prostatic Neoplasms,Renal_Urologico,159
+"Carcinoma, Renal Cell",Renal_Urologico,151
+Urinary Bladder Neoplasms,Renal_Urologico,145
+Wilms Tumor,Renal_Urologico,14
+prostate carcinoma,Renal_Urologico,11
+Acute Kidney Injury,Renal_Urologico,9
+Kidney Neoplasms,Renal_Urologico,6
+Henoch-Schönlein Purpura Nephritis,Renal_Urologico,4
+"Renal Insufficiency, Chronic",Renal_Urologico,4
+bladder urothelial carcinoma,Renal_Urologico,4
+clear cell renal cell carcinoma,Renal_Urologico,3
+renal fibrosis,Renal_Urologico,3
+"Glomerulonephritis, IGA",Renal_Urologico,2
+Cystitis,Renal_Urologico,1
+Glomerulonephritis,Renal_Urologico,1
+"Kidney Failure, Chronic",Renal_Urologico,1
+Lupus Nephritis,Renal_Urologico,1
+Nephrotic Syndrome,Renal_Urologico,1
+Sepsis-Associated Renal Injury,Renal_Urologico,1
+bladder carcinoma,Renal_Urologico,1
+"Carcinoma, Non-Small-Cell Lung",Respiratorio,331
+Adenocarcinoma of Lung,Respiratorio,193
+Lung Neoplasms,Respiratorio,124
+lung squamous cell carcinoma,Respiratorio,31
+acute asthma,Respiratorio,19
+"Pulmonary Disease, Chronic Obstructive",Respiratorio,13
+Small Cell Lung Carcinoma,Respiratorio,12
+Asthma,Respiratorio,11
+Pulmonary Arterial Hypertension,Respiratorio,8
+"Rhinitis, Allergic",Respiratorio,7
+lung non-small cell carcinoma,Respiratorio,7
+lung carcinoma,Respiratorio,6
+Idiopathic Pulmonary Fibrosis,Respiratorio,5
+Pulmonary Fibrosis,Respiratorio,5
+Lung Injury,Respiratorio,4
+Respiratory Distress Syndrome,Respiratorio,4
+Acute Lung Injury,Respiratorio,3
+Pneumonia,Respiratorio,2
+Silicosis,Respiratorio,2
+Breast Cancer Lung Metastasis,Respiratorio,1
+Bronchopulmonary Dysplasia,Respiratorio,1
+Mesothelioma,Respiratorio,1
+Mycoplasma Pneumoniae-Induced Inflammatory,Respiratorio,1
+Mycoplasma pneumoniae pneumonia,Respiratorio,1
+"Pneumonia, Necrotizing",Respiratorio,1
+Respiratory Syncytial Virus Infections,Respiratorio,1
+Sinusitis,Respiratorio,1
+Sleep Apnea Syndromes,Respiratorio,1
+"Sleep Apnea, Obstructive",Respiratorio,1
+allergic asthma,Respiratorio,1
+bronchopulmonary dysplasia,Respiratorio,1
+pneumonia,Respiratorio,1

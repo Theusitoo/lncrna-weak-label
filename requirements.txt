@@ -1,0 +1,27 @@
+# Testado com Python 3.10.11, numpy 2.2.6, pandas 2.3.2, scipy 1.15.3,
+# scikit-learn 1.7.1, imbalanced-learn 0.14.1, bitarray 3.8.1 e
+# iterative-stratification 0.1.9. Os limites superiores excluem as versoes em
+# que a API costuma mudar.
+
+numpy>=2.0,<3
+pandas>=2.0,<3
+scipy>=1.11,<2
+
+# A cascata usa APIs internas do scikit-learn (sklearn.utils._param_validation,
+# sklearn.tree._classes, sklearn.ensemble._forest). Elas nao fazem parte da API
+# publica e podem mudar sem aviso entre versoes menores, por isso o intervalo e
+# estreito. Se precisar de uma versao fora dele, espere ImportError no import de
+# src.cascata.
+scikit-learn>=1.5,<1.8
+
+# imblearn: os imputadores de rotulos sao implementados como BaseSampler
+imbalanced-learn>=0.12,<0.15
+
+# bitarray: usado pelo TIcE na estimativa da frequencia de rotulo
+bitarray>=2.9
+
+# iterative-stratification: estratificacao multirrotulo das particoes
+iterative-stratification>=0.1.9
+
+# typing-extensions: anotacao Self nos imputadores, em Python < 3.11
+typing-extensions>=4.0

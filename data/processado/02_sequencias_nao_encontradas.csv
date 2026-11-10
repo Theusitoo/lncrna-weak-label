@@ -1,0 +1,137 @@
+﻿ncRNA Symbol,motivo,n_doencas
+91 H,sem resultado,2
+AB073614,descartado na validacao de titulo,2
+ABHD11-AS1,descartado na validacao de titulo,9
+AC002454.1,descartado na validacao de titulo,2
+AC016405.3,descartado na validacao de titulo,2
+AC079630.4,sem resultado,2
+AC099850.3,sem resultado,2
+AK001903,sem resultado,2
+AK058003,sem resultado,2
+AL161431.1,descartado na validacao de titulo,3
+AL928768.3,sem resultado,2
+ARA,descartado na validacao de titulo,2
+ARAP1-AS1,descartado na validacao de titulo,9
+ATB,descartado na validacao de titulo,14
+AURKAPS1,descartado na validacao de titulo,2
+AWPPH,descartado na validacao de titulo,13
+BLACAT1,nenhum transcrito nao-codificante,15
+CAR10,nenhum transcrito nao-codificante,4
+CASC2c,sem resultado,2
+CASC7,nenhum transcrito nao-codificante,7
+CCAL,sem resultado,2
+CHRF,sem resultado,3
+CRNDE-h,sem resultado,2
+CTC-297N7.9,sem resultado,2
+Cox2,nenhum transcrito nao-codificante,4
+DICER-AS1,descartado na validacao de titulo,2
+DILC,descartado na validacao de titulo,4
+DRHC,descartado na validacao de titulo,2
+ENST00000434223,descartado na validacao de titulo,2
+ENST00000450445,sem resultado,2
+ENST00000550337.1,descartado na validacao de titulo,2
+EPEL,sem resultado,2
+Erbb4-IR,sem resultado,2
+FAM83H-AS1,nenhum transcrito nao-codificante,10
+FLJ33360,descartado na validacao de titulo,2
+FOXD1-AS1,descartado na validacao de titulo,3
+GATA6-AS,descartado na validacao de titulo,7
+GClnc1,nenhum transcrito nao-codificante,4
+GHSROS,sem resultado,2
+GLCC1,nenhum transcrito nao-codificante,2
+GMAN,nenhum transcrito nao-codificante,2
+GSTM3TV2,descartado na validacao de titulo,2
+HANR,descartado na validacao de titulo,3
+HIF2PUT,sem resultado,2
+HNRNPU-AS1,nenhum transcrito nao-codificante,2
+IGBP1-AS1,sem resultado,2
+IRF1-AS,sem resultado,2
+IUR,descartado na validacao de titulo,5
+KAT7,nenhum transcrito nao-codificante,2
+KRT19P3,nenhum transcrito nao-codificante,2
+LET,descartado na validacao de titulo,4
+LINC-P21,sem resultado,3
+LINC00176,nenhum transcrito nao-codificante,2
+LINC00341,nenhum transcrito nao-codificante,2
+LINC00483,descartado na validacao de titulo,4
+LINC00514,nenhum transcrito nao-codificante,6
+LINC00675,nenhum transcrito nao-codificante,6
+LINC00961,nenhum transcrito nao-codificante,3
+LINC00998,nenhum transcrito nao-codificante,2
+LINC01207,nenhum transcrito nao-codificante,4
+LINC01296,descartado na validacao de titulo,12
+LINC01385,sem resultado,2
+LINC01420,nenhum transcrito nao-codificante,3
+LL22NC03-N64E9.1,sem resultado,2
+LOC100133091,sem resultado,2
+LOC100133669,sem resultado,2
+LOC100506497,sem resultado,2
+LOC101927746,sem resultado,2
+LOC101927752,sem resultado,2
+LOC101928020,sem resultado,2
+LOC284454,descartado na validacao de titulo,2
+LOC285194,descartado na validacao de titulo,8
+LOC441178,sem resultado,2
+LOC441461,descartado na validacao de titulo,2
+LOC550643,sem resultado,2
+LOC554202,descartado na validacao de titulo,2
+LOC645166,sem resultado,2
+Lnc-ATB,descartado na validacao de titulo,2
+Lnc-DILC,sem resultado,2
+Lnc-PVT1,sem resultado,2
+Lnc-ROR,sem resultado,2
+Lnc-TCF7,sem resultado,2
+LncCCAT1,sem resultado,2
+LncRNA PlncRNA-1,descartado na validacao de titulo,2
+LncRNA TCF7,sem resultado,2
+LncSNHG16,sem resultado,2
+MIR4697HG,nenhum transcrito nao-codificante,2
+MRUL,nenhum transcrito nao-codificante,2
+MVIH,sem resultado,5
+NEAT1_2,sem resultado,2
+NEF,nenhum transcrito nao-codificante,10
+NLIPMT,sem resultado,4
+NR_037652.1,sem resultado,2
+NTT,nenhum transcrito nao-codificante,2
+OECC,sem resultado,2
+OR3A4,descartado na validacao de titulo,3
+PAPAS,descartado na validacao de titulo,4
+PEG10,nenhum transcrito nao-codificante,2
+PLAC2,nenhum transcrito nao-codificante,7
+PMS2L2,descartado na validacao de titulo,3
+POLR2E,nenhum transcrito nao-codificante,2
+PXN-AS1-L,descartado na validacao de titulo,3
+RNF185-AS1,sem resultado,2
+RP11-159K7.2,descartado na validacao de titulo,2
+RP11-372K14.2,sem resultado,2
+RP11-480I12.5,sem resultado,2
+RP11-556E13.1,sem resultado,2
+RP11-567G11.1,descartado na validacao de titulo,2
+RP11-569A11.1,sem resultado,2
+RP11-598F7.3,sem resultado,2
+RP11-79H23.3,descartado na validacao de titulo,2
+RP11-81H3.2,descartado na validacao de titulo,2
+SRA,descartado na validacao de titulo,3
+TCLlnc1,nenhum transcrito nao-codificante,2
+TCONS_00020456,sem resultado,2
+TGFBR2,nenhum transcrito nao-codificante,2
+TINCR,nenhum transcrito nao-codificante,17
+TNFRSF10A-AS1,sem resultado,2
+TOPORS-AS1,descartado na validacao de titulo,2
+TP73-AS1,descartado na validacao de titulo,22
+TUBA4B,nenhum transcrito nao-codificante,3
+UBE2CP3,nenhum transcrito nao-codificante,2
+UFC1,nenhum transcrito nao-codificante,6
+XLOC_006390,sem resultado,2
+ZNF281,nenhum transcrito nao-codificante,6
+ZNRD1-AS1,descartado na validacao de titulo,3
+lincRNA-p21,sem resultado,11
+lnc-DC,descartado na validacao de titulo,2
+lnc-IL7R,descartado na validacao de titulo,2
+lnc-MEG3,sem resultado,2
+lncAMPC,descartado na validacao de titulo,2
+lncRNA H19,descartado na validacao de titulo,8
+lncSNHG15,sem resultado,2
+p21,descartado na validacao de titulo,2
+snaR,descartado na validacao de titulo,5
+uc.77,sem resultado,2
