@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Planilha bruta da LncRNADisease: dado de terceiros, obtido na fonte oficial.
+# Instrucoes em data/bruto/README.md.
+data/bruto/*
+!data/bruto/README.md
+
+# Copia das linhas da planilha bruta, gerada pelo passo 01 do pipeline. Pelo
+# mesmo motivo da planilha, nao e versionada.
+data/processado/01_associacoes_humanas.csv
+
+# Base sintetica gerada por scripts/gerar_base_exemplo.py
+data/exemplo/
+
+# Saidas de experimentos. O repositorio publica dados e codigo, nao resultados:
+# todos sao reproduziveis com scripts/rodar.py e scripts/avaliar.py.
+resultados/
+mlruns/
+*.log
+
+# Arquivos temporarios do Excel e do sistema
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
